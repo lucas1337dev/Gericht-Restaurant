@@ -2,7 +2,7 @@
 
 <img src='https://github.com/lucas1337dev/Gericht-Restaurant/blob/main/Gericht-Restaurant.png' alt='project img' />
 
-<p>Gericht-Restaurant is a Restarant landing page developed with <b>React</b>.</p>
+<p>Gericht-Restaurant is a Restaurant landing page developed with <b>React</b>.</p>
 
 <a href='https://lucas1337dev.github.io/Gericht-Restaurant/'>Live Project</a>
 
